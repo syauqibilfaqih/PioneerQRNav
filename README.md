@@ -10,6 +10,13 @@ git clone https://github.com/syauqibilfaqih/PioneerQRNav.git
 ```
 pip install -r requirements.txt
 ```
+or you can just install them manually:
+```
+pip install numpy
+```
+```
+pip install opencv-python
+```
 
 ## Usage
 1. Open the CoppeliaSim simulation file in folder coppeliaSimFiles
