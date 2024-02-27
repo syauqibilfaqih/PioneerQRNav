@@ -1,4 +1,6 @@
 # PioneerQRNav
+![image](https://github.com/syauqibilfaqih/PioneerQRNav/assets/70939903/e1bed9ed-37e4-4d7f-9a90-f00cc6783d9a)
+
 A repository to run Pioneer p3dx simulation and navigate it using QR Codes for educational purpose in Madrasah Technonatura Jogja. This was tested on Windows 10 with Python 3.7 and CoppeliaSim 4.1.0
 
 ## Installation
